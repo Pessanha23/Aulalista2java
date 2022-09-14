@@ -11,6 +11,8 @@ public class Program {
 
         List<Employee> list = new ArrayList<>();
 
+        System.out.println("COMMITANDO TESTE");
+
         System.out.print("How to many employees will be registered ?");
         Integer n = Integer.valueOf(sc.nextLine());
         while (n == 0) {
