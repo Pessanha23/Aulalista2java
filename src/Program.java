@@ -13,6 +13,8 @@ public class Program {
 
         System.out.println("COMMITANDO TESTE");
 
+        System.out.println("COMMITANDO TESTE2");
+
         System.out.print("How to many employees will be registered ?");
         Integer n = Integer.valueOf(sc.nextLine());
         while (n == 0) {
